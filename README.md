@@ -1,5 +1,3 @@
-
-
 <h1 align="center"> 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd6bXJ5N2s2b3l2a3h2Z2E5a3N5M3V0cDlqY2F1bDd0b2t5d2NlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300" alt="Coding GIF">
   <br>Hi 👋, I'm James Edward Ntigwimbugwa<br>
@@ -7,26 +5,34 @@
 </h1>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-  </a>
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
 </div>
 
 ---
 
 ### 🚀 **About Me**
 
-<p align="left">
-  <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF">
-  
-  - 🔭 Currently developing **[e-Card](https://github.com/James-Edward-Ntigwimbugwa/eCard-Mobile-App.git)** - Digital business card solution
-  - 🌱 Mastering **Node.js | Laravel | GIS Systems**
-  - 👨‍💻 4+ years crafting full-stack solutions
-  - 🎓 Final year Computer Science student @ National Institute of Tanzania (2025)
-  - 🏆 2023 National Coding Challenge Finalist
-  - 💡 Passionate about solving real-world problems through tech
-  - ⚡ Fun fact: I can solve a Rubik's cube in under 90 seconds!
-</p>
+<table>
+<tr>
+<td width="60%">
+
+- 🔭 Currently developing **[e-Card](https://github.com/James-Edward-Ntigwimbugwa/eCard-Mobile-App.git)** - Digital business card solution
+- 🌱 Mastering **Node.js | Laravel | GIS Systems**
+- 👨‍💻 4+ years crafting full-stack solutions
+- 🎓 Final year Computer Science student @ National Institute of Tanzania (2025)
+- 🏆 2023 National Coding Challenge Finalist
+- 💡 Passionate about solving real-world problems through tech
+- ⚡ Fun fact: I can solve a Rubik's cube in under 90 seconds!
+
+</td>
+<td width="40%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -60,21 +66,14 @@
 
 ### 📈 **GitHub Analytics**
 
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=James-Edward-Ntigwimbugwa&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=James-Edward-Ntigwimbugwa&theme=radical" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-Edward-Ntigwimbugwa&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=James-Edward-Ntigwimbugwa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=James-Edward-Ntigwimbugwa&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-Edward-Ntigwimbugwa&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true&langs_count=12"/>
+</div>
 
 ---
 
