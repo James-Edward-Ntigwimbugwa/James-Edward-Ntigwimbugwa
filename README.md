@@ -21,7 +21,6 @@
 - 🌱 Mastering **Node.js | Laravel | GIS Systems**
 - 👨‍💻 4+ years crafting full-stack solutions
 - 🎓 Final year Information Technology student @ National Institute of Tanzania (2025)
-- 🏆 2023 National Coding Challenge Finalist
 - 💡 Passionate about solving real-world problems through tech
 - ⚡ Fun fact: I can solve a Rubik's cube in under 90 seconds!
 
