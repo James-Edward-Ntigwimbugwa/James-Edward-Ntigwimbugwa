@@ -19,7 +19,7 @@
 
 - 🔭 Currently developing **[e-Card](https://github.com/James-Edward-Ntigwimbugwa/eCard-Mobile-App.git)** - Digital business card solution
 - 🌱 Mastering **Node.js | Laravel | GIS Systems**
-- 👨‍💻 4+ years crafting full-stack solutions
+- 👨‍💻 3+ years crafting full-stack solutions
 - 🎓 Final year Information Technology student @ National Institute of Tanzania (2025)
 - 💡 Passionate about solving real-world problems through tech
 - ⚡ Fun fact: I can solve a Rubik's cube in under 90 seconds!
